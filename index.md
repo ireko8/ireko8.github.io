@@ -4,7 +4,7 @@ Ph.D student at University of Tokyo. Kaggle Master (Ireko8).
 
 Supervisor: Akihiro Nakao
 
-mail: (my first name) at nakao-lab.org
+mail: (my last name) at nakao-lab.org
 
 ## Research Interests
 * Application-Specific Network Management
@@ -66,7 +66,6 @@ mail: (my first name) at nakao-lab.org
 * 1st grade of Japan Statistical Society Certificate (2017)
 
 ## Links
-* [hatena](http://ireko8.hatenablog.com/)
 * [github](https://github.com/koreisis)
 * [kaggle](https://www.kaggle.com/ireko8)
 * [LinkedIn](https://www.linkedin.com/in/takamitsu-iwai-baab8a155/)
