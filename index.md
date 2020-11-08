@@ -22,7 +22,7 @@ mail: (my last name) at nakao-lab.org
 2. A. Nakao, D. Ping, and __T. Iwai__, "Application specific slicing for MVNO through software-defined data plane enhancing SDN." IEICE Transactions on Communications 98.11 (2015): 2111-2120.
 
 ### International Conference (Reviewed)
-1. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." 2020 IEEE Globecom. IEEE, 2020. (To appear) [slides](Globecom2020.pdf)
+1. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." 2020 IEEE Globecom. IEEE, 2020. (To appear)
 2. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." 2018 IEEE CloudNet. IEEE, 2018 (poster).
 3. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." 2016 IEEE APNOMS. IEEE, 2016.
 
