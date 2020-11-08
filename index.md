@@ -18,16 +18,17 @@ mail: (my last name) at nakao-lab.org
 
 ### Jounal (Reviewed)
 
-1. A. Nakao, D. Ping, and __T. Iwai__, "Application specific slicing for MVNO through software-defined data plane enhancing SDN." IEICE Transactions on Communications 98.11 (2015): 2111-2120.
+1. __岩井 貴充__, 中尾 彰宏, “実運用を想定した検証手法に基づくアプリケーション判定の性能の検証,” 電子情報通信学会 和文論文誌B (To appear)
+2. A. Nakao, D. Ping, and __T. Iwai__, "Application specific slicing for MVNO through software-defined data plane enhancing SDN." IEICE Transactions on Communications 98.11 (2015): 2111-2120.
 
 ### International Conference (Reviewed)
-1. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." 2020 IEEE Globecom. IEEE, 2020. (To appear)
+1. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." 2020 IEEE Globecom. IEEE, 2020. (To appear) [slides](Globecom2020.pdf)
 2. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." 2018 IEEE CloudNet. IEEE, 2018 (poster).
 3. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." 2016 IEEE APNOMS. IEEE, 2016.
 
 ### Domestic Conference (Not Reviewed)
 
-1. __岩井 貴充__, 中尾 彰宏, “低遅延アプリケーションのためのキューイング遅延を抑えた帯域割り当て手法の提案,” 信学技報 NS2020-XXX, 2020年10月. (To appear)
+1. __岩井 貴充__, 中尾 彰宏, “低遅延アプリケーションのためのキューイング遅延を抑えた帯域割り当て手法の提案,” 信学技報, vol. 120, no. 183, NS2020-55, pp. 7-12, 2020年10月.
 2. __岩井 貴充__, 中尾 彰宏, “Progressive Slicingによる実運用を想定したアプリケーション判定システムの提案,” 信学技報, vol. 120, no. 19, NS2020-17, pp. 57-62, 2020年5月.
 3. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定のユーザーおよび時間変化に対する性能の再評価 (Poster Presentation),” 信学技報 RISING 2019, 2019年11月.
 4. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定の検証方法と問題点,” 信学技報, vol. 119, no. 92, NS2019-40, pp. 29-34, 2019年6月.
