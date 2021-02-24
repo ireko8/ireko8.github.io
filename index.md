@@ -70,6 +70,6 @@ mail: (my last name) at nakao-lab.org
 * 1st grade of Japan Statistical Society Certificate (2017)
 
 ## Links
-* [github](https://github.com/koreisis)
+* [github](https://github.com/ireko8)
 * [kaggle](https://www.kaggle.com/ireko8)
 * [LinkedIn](https://www.linkedin.com/in/takamitsu-iwai-baab8a155/)
