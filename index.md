@@ -4,7 +4,7 @@ Ph.D. student at the University of Tokyo. Kaggle Master (Ireko8).
 
 Supervisor: Akihiro Nakao
 
-mail: (my last name) at nakao-lab.org
+mail: iwai X nakao-lab.org (replace X to @) / iwai X g.ecc.u-tokyo.ac.jp
 
 ## Research Interests
 * Application-Specific Network Management
@@ -18,7 +18,7 @@ mail: (my last name) at nakao-lab.org
 
 ### Jounal (Reviewed)
 
-1. __岩井 貴充__, 中尾 彰宏, “実運用を想定した検証手法に基づくアプリケーション判定の性能の検証,” 電子情報通信学会 和文論文誌B (To appear)
+1. __岩井 貴充__, 中尾 彰宏, “実運用を想定した検証手法に基づくアプリケーション判定の性能の検証,” 電子情報通信学会 和文論文誌B Vol.J104-B, No.03, pp.152-162, Mar. 2021.
 2. A. Nakao, D. Ping, and __T. Iwai__, "Application specific slicing for MVNO through software-defined data plane enhancing SDN." IEICE Transactions on Communications 98.11 (2015): 2111-2120.
 
 ### International Conference (Reviewed)
@@ -30,7 +30,7 @@ mail: (my last name) at nakao-lab.org
 
 ### Domestic Conference (Not Reviewed)
 
-1. __岩井 貴充__, 中尾 彰宏, “無線環境下でのスライス間の効用公平性を保持した帯域割り当て手法の提案,” 信学技報, NS研究会, 2021年3月 (To appear).
+1. __岩井 貴充__, 中尾 彰宏, “無線環境下でのスライス間の効用公平性を保持した帯域割り当て手法の提案,” 信学技報, vol. 120, no. 413, NS2020-161, pp. 226-231, 2021年3月.
 2. __岩井 貴充__, 中尾 彰宏, “低遅延アプリケーションのためのキューイング遅延を抑えた帯域割り当て手法の提案,” 信学技報, vol. 120, no. 183, NS2020-55, pp. 7-12, 2020年10月.
 3. __岩井 貴充__, 中尾 彰宏, “Progressive Slicingによる実運用を想定したアプリケーション判定システムの提案,” 信学技報, vol. 120, no. 19, NS2020-17, pp. 57-62, 2020年5月.
 4. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定のユーザーおよび時間変化に対する性能の再評価 (Poster Presentation),” 信学技報 RISING 2019, 2019年11月.
@@ -49,7 +49,7 @@ mail: (my last name) at nakao-lab.org
 ## Experience
 
 ### Education
-* 2017~present: Ph.D. student in University of Tokyo. (Supervisor: Akihiro Nakao)
+* April 2021: Ph.D. in University of Tokyo. (Supervisor: Akihiro Nakao)
 * March 2017: M.I. in University of Tokyo. (Supervisor: Akihiro Nakao)
 * March 2015: B.A. in University of Tokyo.
 
