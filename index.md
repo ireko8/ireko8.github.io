@@ -1,6 +1,6 @@
 # Takamitsu Iwai
 
-Ph.D. student at the University of Tokyo. Kaggle Master (Ireko8).
+Ph.D. at the University of Tokyo. Kaggle Master (Ireko8).
 
 Supervisor: Akihiro Nakao
 
