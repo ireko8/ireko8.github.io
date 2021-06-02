@@ -1,10 +1,10 @@
 # Takamitsu Iwai
 
-Ph.D. at the University of Tokyo. Kaggle Master (Ireko8).
+Postdoctoral Researcher at the University of Tokyo. Kaggle Master (Ireko8).
 
 Supervisor: Akihiro Nakao
 
-mail: iwai X nakao-lab.org (replace X to @) / iwai X g.ecc.u-tokyo.ac.jp
+mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @) 
 
 ## Research Interests
 * Application-Specific Network Management
