@@ -23,23 +23,25 @@ mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @)
 
 ### International Conference (Reviewed)
 
-1. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." 2021 IEEE ICC. IEEE, 2021 (To appear).
-2. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." 2020 IEEE Globecom. IEEE, 2020.
-3. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." 2018 IEEE CloudNet. IEEE, 2018 (poster).
-4. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." 2016 IEEE APNOMS. IEEE, 2016.
+1. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE GLOBECOM 2021 (To appear).
+2. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." IEEE ICC 2021.
+3. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." IEEE Globecom 2020.
+4. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." IEEE CloudNet 2018 (poster).
+5. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." IEEE APNOMS 2016.
 
 ### Domestic Conference (Not Reviewed)
 
-1. __岩井 貴充__, 中尾 彰宏, “無線環境下でのスライス間の効用公平性を保持した帯域割り当て手法の提案,” 信学技報, vol. 120, no. 413, NS2020-161, pp. 226-231, 2021年3月.
-2. __岩井 貴充__, 中尾 彰宏, “低遅延アプリケーションのためのキューイング遅延を抑えた帯域割り当て手法の提案,” 信学技報, vol. 120, no. 183, NS2020-55, pp. 7-12, 2020年10月.
-3. __岩井 貴充__, 中尾 彰宏, “Progressive Slicingによる実運用を想定したアプリケーション判定システムの提案,” 信学技報, vol. 120, no. 19, NS2020-17, pp. 57-62, 2020年5月.
-4. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定のユーザーおよび時間変化に対する性能の再評価 (Poster Presentation),” 信学技報 RISING 2019, 2019年11月.
-5. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定の検証方法と問題点,” 信学技報, vol. 119, no. 92, NS2019-40, pp. 29-34, 2019年6月.
-6. __岩井 貴充__, 中尾 彰宏, “モバイルエッジコンピューティングの新規応用分野の動向と整理 (Encouragement Talk),” 信学技報, vol. 118, no. 124, NS2018-70, pp. 155-159, 2018年7月. 
-7. __岩井 貴充__, 中尾 彰宏, “モバイルエッジコンピューティングにおける新規応用分野の提案,” 信学技報, vol. 117, no. 303, NS2017-117, pp. 33-38, 2017年11月.
-8. __岩井 貴充__, 中尾 彰宏, “ジニ係数とコサイン類似度を用いたモバイルトラフィックにおける高精度アプリケーション判定手法,” 信学技報, vol. 116, no. 484, NS2016-192, pp. 199-204, 2017年3月.
-9. __岩井 貴充__, 中尾 彰宏, “アプリケーション毎のトラフィック制御を目的とするN-gramを用いた網内機械学習によるモバイルアプリケーション同定手法 (Encouragement Talk),” 信学技報, vol. 115, no. 209, NS2015-78, pp. 41-46, 2015年9月.
-10. __岩井 貴充__, 中尾 彰宏, “アプリケーション特化型QoS制御のための網内機械学習によるモバイルアプリケーション同定,” 信学技報, vol. 114, no. 477, NS2014-260, pp. 487-492, 2015年3月.
+1. __岩井 貴充__, 中尾 彰宏, “現代のアプリケーションの観点から見た次世代衛星通信の課題の整理,” NS研究会 2021年9月 (To appear).
+2. __岩井 貴充__, 中尾 彰宏, “無線環境下でのスライス間の効用公平性を保持した帯域割り当て手法の提案,” 信学技報, vol. 120, no. 413, NS2020-161, pp. 226-231, 2021年3月.
+3. __岩井 貴充__, 中尾 彰宏, “低遅延アプリケーションのためのキューイング遅延を抑えた帯域割り当て手法の提案,” 信学技報, vol. 120, no. 183, NS2020-55, pp. 7-12, 2020年10月.
+4. __岩井 貴充__, 中尾 彰宏, “Progressive Slicingによる実運用を想定したアプリケーション判定システムの提案,” 信学技報, vol. 120, no. 19, NS2020-17, pp. 57-62, 2020年5月.
+5. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定のユーザーおよび時間変化に対する性能の再評価 (Poster Presentation),” 信学技報 RISING 2019, 2019年11月.
+6. __岩井 貴充__, 中尾 彰宏, “機械学習によるモバイルアプリケーション判定の検証方法と問題点,” 信学技報, vol. 119, no. 92, NS2019-40, pp. 29-34, 2019年6月.
+7. __岩井 貴充__, 中尾 彰宏, “モバイルエッジコンピューティングの新規応用分野の動向と整理 (Encouragement Talk),” 信学技報, vol. 118, no. 124, NS2018-70, pp. 155-159, 2018年7月. 
+8. __岩井 貴充__, 中尾 彰宏, “モバイルエッジコンピューティングにおける新規応用分野の提案,” 信学技報, vol. 117, no. 303, NS2017-117, pp. 33-38, 2017年11月.
+9. __岩井 貴充__, 中尾 彰宏, “ジニ係数とコサイン類似度を用いたモバイルトラフィックにおける高精度アプリケーション判定手法,” 信学技報, vol. 116, no. 484, NS2016-192, pp. 199-204, 2017年3月.
+10. __岩井 貴充__, 中尾 彰宏, “アプリケーション毎のトラフィック制御を目的とするN-gramを用いた網内機械学習によるモバイルアプリケーション同定手法 (Encouragement Talk),” 信学技報, vol. 115, no. 209, NS2015-78, pp. 41-46, 2015年9月.
+11. __岩井 貴充__, 中尾 彰宏, “アプリケーション特化型QoS制御のための網内機械学習によるモバイルアプリケーション同定,” 信学技報, vol. 114, no. 477, NS2014-260, pp. 487-492, 2015年3月.
 
 ### Awards
 
