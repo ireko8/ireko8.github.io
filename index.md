@@ -23,7 +23,7 @@ mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @)
 
 ### International Conference (Reviewed)
 
-1. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE G 2021 (To appear).
+1. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE Globecom 2021 (To appear).
 2. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." IEEE ICC 2021.
 3. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." IEEE Globecom 2020.
 4. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." IEEE CloudNet 2018 (poster).
