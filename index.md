@@ -2,8 +2,6 @@
 
 Postdoctoral Researcher at the University of Tokyo. Kaggle Master (Ireko8).
 
-Supervisor: Akihiro Nakao
-
 mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @) 
 
 ## Research Interests
