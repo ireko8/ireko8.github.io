@@ -2,7 +2,7 @@
 
 Cloud Support Associate as Amazon Web Services. Ph.D.
 
-mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @) 
+mail: tiwai X acm.org (replace X to @) 
 
 ## Research Interests
 * Application-Specific Network Management
