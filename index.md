@@ -1,6 +1,6 @@
 # Takamitsu Iwai
 
-Postdoctoral Researcher at the University of Tokyo. Kaggle Master (Ireko8).
+Cloud Support Associate as Amazon Web Services. Ph.D.
 
 mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @) 
 
@@ -63,7 +63,7 @@ mail: iwai X nakao-lab.org / takiwai X g.ecc.u-tokyo.ac.jp (replace X to @)
 ## Misc
 
 #### Kaggle
-[My Kaggle Account (Ireko8)](https://www.kaggle.com/ireko8)
+[Kaggle Master (Ireko8)](https://www.kaggle.com/ireko8)
 
 * [APTOS Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection/leaderboard) : Top 1% solo silver 20th / 2943 teams
 * [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk) : 2nd Gold Medal 2nd / 7198teams
