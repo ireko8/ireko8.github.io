@@ -1,6 +1,6 @@
 # Takamitsu Iwai
 
-Cloud Support Associate as Amazon Web Services. Ph.D.
+Cloud Support Associate at Amazon Web Services. Ph.D.
 
 mail: tiwai X acm.org (replace X to @) 
 
