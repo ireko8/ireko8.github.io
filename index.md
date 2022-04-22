@@ -81,6 +81,6 @@ mail: tiwai X acm.org (replace X to @)
 
 ## Links
 * [github](https://github.com/ireko8)
-* [twitter](https://twitter.com/ireko8)
+* [twitter](https://twitter.com/_ireko8)
 * [kaggle](https://www.kaggle.com/ireko8)
 * [LinkedIn](https://www.linkedin.com/in/takamitsu-iwai-baab8a155/)
