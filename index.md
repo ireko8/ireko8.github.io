@@ -65,7 +65,7 @@ mail: tiwai X acm.org (replace X to @)
 * 2017/4 ~ 2018/2: AXA Direct Japan.
 
 ### Reviewer
-* IEEE ICC 2021
+* IEEE ICC 2022
 
 ## Misc
 
