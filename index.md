@@ -21,16 +21,17 @@ mail: tiwai X acm.org (replace X to @)
 
 ### International Conference (Reviewed)
 
-1. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE Globecom 2021.
-2. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." IEEE ICC 2021.
-3. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." IEEE Globecom 2020.
-4. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." IEEE CloudNet 2018 (poster).
-5. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." IEEE APNOMS 2016.
+1. __T. Iwai__, N. Fukumoto, and A. Nakao, "StarBundler: Middlebox for Satellite-Independent Delay Control in LEO Constellation." IEEE ICC 2023 (To appear).
+2. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE Globecom 2021.
+3. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." IEEE ICC 2021.
+4. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." IEEE Globecom 2020.
+5. __T. Iwai__, and A. Nakao, "Demystifying myths of MEC: rethinking and exploring benefits of multi-access/mobile edge computing." IEEE CloudNet 2018 (poster).
+6. __T. Iwai__, and A. Nakao, "Adaptive mobile application identification through in-network machine learning." IEEE APNOMS 2016.
 
 ### Domestic Conference (Not Reviewed)
 
 1. __岩井 貴充__, 野 祐崇, 後藤 淳悟, 岩井 卓也, 杜 平, 中尾 彰宏, “ローカル5Gを用いた低遅延リモートカメラ撮影の検証および分析,” IEICE NS研究会, 2022年3月.
-2. __岩井 貴充__, 中尾 彰宏, “地上局で完結する衛星ネットワークスライシングのための基地局ミドルボックスの提案,” IEICE NS研究会, 2022年3月.
+2. __岩井 貴充__, 福元 徳広, 中尾 彰宏, “地上局で完結する衛星ネットワークスライシングのための基地局ミドルボックス,” IEICE NS研究会, 2022年3月.
 3. 福元 徳広, 杜 平, __岩井 貴充__, 中尾 彰宏, “衛星バックホールを活用したローカル5Gシステムの検討,” IEICE NS研究会, 2022年3月.
 4. __岩井 貴充__, 中尾 彰宏, “現代のアプリケーションの観点から見た次世代衛星通信の課題整理,” 信学技報, vol. 121, no. 170, NS2021-58, pp. 6-11, 2021年9月.
 5. __岩井 貴充__, 中尾 彰宏, “無線環境下でのスライス間の効用公平性を保持した帯域割り当て手法の提案,” 信学技報, vol. 120, no. 413, NS2020-161, pp. 226-231, 2021年3月.
