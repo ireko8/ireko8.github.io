@@ -1,8 +1,6 @@
 # Takamitsu Iwai
 
-Cloud Support Associate at Amazon Web Services. Ph.D.
-
-mail: tiwai X acm.org (replace X to @) 
+Cloud Support Engineer at Amazon Web Services. Ph.D.
 
 ## Research Interests
 * Application-Specific Network Management
@@ -21,7 +19,7 @@ mail: tiwai X acm.org (replace X to @)
 
 ### International Conference (Reviewed)
 
-1. __T. Iwai__, N. Fukumoto, and A. Nakao, "StarBundler: Middlebox for Satellite-Independent Delay Control in LEO Constellation." IEEE ICC 2023 (To appear).
+1. __T. Iwai__, N. Fukumoto, and A. Nakao, "StarBundler: Middlebox for Satellite-Independent Delay Control in LEO Constellation." IEEE ICC 2023.
 2. __T. Iwai__ and A. Nakao, "Bandwidth Allocation with Slice Quality Fairness in Network Slicing under Variable Link Capacity." IEEE Globecom 2021.
 3. __T. Iwai__ and A. Nakao, "Sliceable Congestion Control for Latency-Aware Bandwidth Allocation in Network Slicing." IEEE ICC 2021.
 4. __T. Iwai__ and A. Nakao, "Progressive Slicing for Application Identification in Application-Specific Network Slicing." IEEE Globecom 2020.
@@ -53,13 +51,14 @@ mail: tiwai X acm.org (replace X to @)
 ## Experience
 
 ### Work
-* April 2022 ~ : Cloud Support Associate at Amazon Web Services.
+* May 2023 ~: Cloud Support Engineer at Amazon Web Services.
+* April 2022 ~ April 2023: Cloud Support Associate at Amazon Web Services.
 * June 2021 ~ March 2022: Postdoctoral Project Researcher at the University of Tokyo.
 
 ### Education
-* April 2021: Ph.D. in the University of Tokyo. (Supervisor: Akihiro Nakao)
-* March 2017: M.I. in the University of Tokyo. (Supervisor: Akihiro Nakao)
-* March 2015: B.A. in the University of Tokyo.
+* April 2021: Ph.D. from the University of Tokyo. (Supervisor: Akihiro Nakao)
+* March 2017: M.I. from the University of Tokyo. (Supervisor: Akihiro Nakao)
+* March 2015: B.A. from the University of Tokyo.
 
 ### Interns
 * 2019 March: Docomo Mobile Inc.
@@ -79,6 +78,7 @@ mail: tiwai X acm.org (replace X to @)
 #### Others
 
 * 1st grade of Japan Statistical Society Certificate (2017)
+* [Linux kernel contribution](https://lore.kernel.org/all/?q=%22Takamitsu%20Iwai%22)
 
 ## Links
 * [github](https://github.com/ireko8)
